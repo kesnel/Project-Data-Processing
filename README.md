@@ -4,7 +4,7 @@
 
 ## Structure 
 
-'''
+```
 .
 ├── README.md
 ├── data
@@ -22,4 +22,4 @@
 
 2 directories, 11 files
 
-'''
+```
