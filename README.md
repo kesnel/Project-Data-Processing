@@ -2,7 +2,6 @@
 
 ### This is the repository of the project
 
-.
 ├── README.md
 ├── data
 │   ├── commune.xlsx
