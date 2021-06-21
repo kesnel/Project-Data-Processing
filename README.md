@@ -1,7 +1,7 @@
 ## Data processing with python
 
 ### This is the repository of the project
-
+.
 ├── README.md
 ├── data
 │   ├── commune.xlsx
@@ -15,3 +15,6 @@
 ├── data.ipynb
 ├── docs
 └── original.ipynb
+
+2 directories, 11 files
+
