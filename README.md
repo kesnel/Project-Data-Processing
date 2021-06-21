@@ -37,7 +37,7 @@ Knowing that each cohort must have 30 students
 2 directories, 11 files
 
 ```
-### Libraries
+#### Libraries
 ```python
 import numpy as np
 import pandas as pd
