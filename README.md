@@ -31,10 +31,9 @@ Knowing that each cohort must have 30 students
 │   ├── technology.csv
 │   └── transaction.csv
 ├── data.ipynb
-├── docs
-└── original.ipynb
+└── docs
 
-2 directories, 11 files
+2 directories, 10 files 
 
 ```
 #### Libraries
