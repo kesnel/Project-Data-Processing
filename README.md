@@ -1,6 +1,6 @@
 ## Introduction
 
-#### Ayiti Analytics Data Processing Bootcamp
+### Ayiti Analytics Data Processing Bootcamp
   Ayiti Analytics Data wants to expand its training centers throughout all the communes of the country. Your role as a data analyst is to help them realize this dream.
 
 Its objective is to know which three communes of the country will be the most likely to expand its training centers.
@@ -48,8 +48,8 @@ import seaborn as sns
 
 ## License
 
-### Code
+#### Code
 The code in this repository, including all code samples in the notebooks listed above, is released under the [MIT license](LICENSE-CODE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
 
-### Credit
+#### Credit
 This project was writtin by [Kesnel Samuel JEAN-PHILIPPE](https://kesnel.link)
