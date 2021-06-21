@@ -1,6 +1,10 @@
 ## Data processing with python
 
 ### This is the repository of the project
+
+## Structure 
+
+'''
 .
 ├── README.md
 ├── data
@@ -18,3 +22,4 @@
 
 2 directories, 11 files
 
+'''
