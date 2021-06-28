@@ -16,7 +16,7 @@ Knowing that each cohort must have 30 students
 * If we were to do all the bootcamp online, who would be the best communes and how many applications would we need to select 30 student and what percentage of students would have a laptop, an internet connection, both at the same time
 * What are the most effective communication channels (Alumni, Facebook, WhatsApp, Friend ...) that will allow a women to be susceptible to selection
 
-## Structure 
+## Folders Structure 
 
 ```
 .
